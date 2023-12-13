@@ -122,16 +122,16 @@
 
         <section>
             <br>
-            <div class="container">
-                <h3>- Welcome athletes and fans to Hanoi International Marathon 2023 - a classy international sports event in the capital Hanoi! We are very happy and proud to welcome all of you to join us in conquering legendary runs through the most beautiful streets of the city with a team of enthusiastic volunteers and companions from all over the world.</h3>
+            <ul class="container">
+                <li style="text-align: justify; font-weight: 700; font-size: 30px;">Welcome athletes and fans to Hanoi International Marathon 2023 - a classy international sports event in the capital Hanoi! We are very happy and proud to welcome all of you to join us in conquering legendary runs through the most beautiful streets of the city with a team of enthusiastic volunteers and companions from all over the world.</li>
                 <br>
-                <h3>- If you have not yet registered to participate, quickly click <a href="register.php" style="text-decoration: none;">[here]</a> to experience thrilling moments and challenge yourself in the exciting atmosphere of this great event. Don't miss the opportunity to join a community of sports lovers, where passion and positive energy spread from every step.</h3>
+                <li style="text-align: justify; font-weight: 700; font-size: 30px;">If you have not yet registered to participate, quickly click <a href="register.php" style="text-decoration: none;">[here]</a> to experience thrilling moments and challenge yourself in the exciting atmosphere of this great event. Don't miss the opportunity to join a community of sports lovers, where passion and positive energy spread from every step.</li>
                 <br>
-                <h3>- In addition, you can also see detailed information about ongoing competitions as well as related events at our official website <a href="event.php" style="text-decoration: none;">[here]</a>. Join us, immerse yourself in the exciting atmosphere and gain unforgettable experiences at Hanoi International Marathon!</h3>
+                <li style="text-align: justify; font-weight: 700; font-size: 30px;">In addition, you can also see detailed information about ongoing competitions as well as related events at our official website <a href="event.php" style="text-decoration: none;">[here]</a>. Join us, immerse yourself in the exciting atmosphere and gain unforgettable experiences at Hanoi International Marathon!</li>
                 <br>
-                <h3>- Below are the leaderboards of previous competitions, which chronicle the incredible achievements of outstanding athletes. This is a great source of encouragement for you to have more motivation and encouragement to reach new achievements. Consider carefully and let your name become part of Hanoi International Marathon history!</h3>
+                <li style="text-align: justify; font-weight: 700; font-size: 30px;">Below are the leaderboards of previous competitions, which chronicle the incredible achievements of outstanding athletes. This is a great source of encouragement for you to have more motivation and encouragement to reach new achievements. Consider carefully and let your name become part of Hanoi International Marathon history!</li>
                 
-            </div>
+            </ul>
             <br><br>
             <div class="container mx-auto">
                 <?php
